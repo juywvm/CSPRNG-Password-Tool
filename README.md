@@ -29,3 +29,6 @@ No external libraries are required. Simply run the script:
 
 ```bash
 python main.py
+```
+
+## Note: The README file is AI-generated, but the source code is entirely my own work.
