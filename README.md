@@ -33,4 +33,4 @@ python main.py
 
 ## Note
 
-The README file is AI-generated, but the source code is entirely my own original work. Online tools was used exclusively to format the code and improve readability.
+The README file was translated by AI, but the source code is entirely my own original work. Online tools was used exclusively to format the code and improve readability.
